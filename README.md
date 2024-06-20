@@ -15,15 +15,15 @@
 * The state register is also modeled using D flip-flops.
 * Normally Moore machines are described using three blocks, one of which must be a sequential and the other two can be modeled using always blocks or a combination of always and dataflow modeling constructs. 
 
-![image]()
+![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine/blob/main/three%20blocks%20Moore%20machine.png)
 
 <!-- Schmatic -->
 ## Schmatic
-![image]()
+![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine/blob/main/Schmatic.png)
 
 <!-- Simulation -->
 ## Simulation
-![image]()
+![image](https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine/blob/main/Simulation.png)
 
 <!-- LICENSE -->
 ## License
@@ -38,7 +38,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: []()
+Project Link: [https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine](https://github.com/trista-csee/Sequence-Pattern_Detector_Moore_Machine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
