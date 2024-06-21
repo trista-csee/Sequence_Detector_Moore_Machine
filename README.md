@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT Name --> 
-<h1 align="center">Design a sequence/pattern detector Moore machine</h1>
+<h1 align="center">Design a sequence detector Moore machine</h1>
 
 <!--  State Diagram -->
 ## State Diagram
